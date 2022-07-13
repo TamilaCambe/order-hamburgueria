@@ -1,6 +1,6 @@
 
 <h1 align = 'center'> Order-hamburgueria 🍔 </h1>
- <h3>Simulates the registration of orders for a hamburger shop. It is possible to create, list, change orders and the status of each one (in preparation or ready) and also delete. </h3>
+ <h3>Simula o cadastro de pedidos de uma hamburgueria. É possível criar, listar, alterar pedidos e o status de cada um (em preparação ou pronto) e também deletar. </h3>
  
 <h3><br>Rotas:</h3>
 POST /order: A rota recebe o pedido do cliente, o nome do cliente e o valor do pedido, elas são passadas dentro do corpo(body) da requisição, e são colocadas dentro de um array.
@@ -44,6 +44,16 @@ MIDDLEWARE CHECK - Vai receber o ID e verificar se ele existe. Caso não existir
 MIDDLEWARE METHOD - Ele mostra o método da requisiçao(GET,POST,PUT,DELETE, etc) e também a url da requisição.
 Exemplo
 Método: [GET] - URL: /order
+
+## 💻 Technologies used
+
+* Node;
+
+ * Express
+
+* Insominia
+
+* uuid
 
  
  
