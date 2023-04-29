@@ -64,6 +64,8 @@ Método: [GET] - URL: /order
 
  * uuid
  
+ * Gerenciador de pacote npm
+ 
  ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
