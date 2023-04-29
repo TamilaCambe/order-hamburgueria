@@ -1,10 +1,12 @@
 
 <h1 align = 'center'> Order-hamburgueria 🍔 </h1>
- <h3>Simulador de cadastro  </h3>
+ <h3 align = 'center'>Simulador de cadastro  </h3>
 
 ![Badge](https://img.shields.io/static/v1?label=DEV&message=Tamila&color=ff7f00&style=flat&logo=)
    
 <h2>Demonstração :eyes:<h2>
+ 
+![page](https://github.com/TamilaCambe/order-hamburgueria/blob/main/assets/Design%20sem%20nome%20(5).gif)
  
 ## Explicação 📑
  <p>Simula o cadastro de pedidos de uma hamburgueria. É possível criar, listar, alterar pedidos e o status de cada um (em preparação ou pronto) e também deletar.</p>
@@ -44,7 +46,7 @@ Se eu chamar a rota PATCH /order/ac3ebf68-e0ad-4c1d-9822-ff1b849589a8, o array d
     price: 44.50,<br>
     status:"Pronto"<br>
   }];
-  <br><br>
+  <br>
 <h3>Middlewares</h3>
 MIDDLEWARE CHECK - Vai receber o ID e verificar se ele existe. Caso não existir vai enviar uma mensagem de erro, mas se existir a requisição será continuada.
 
@@ -52,7 +54,7 @@ MIDDLEWARE METHOD - Ele mostra o método da requisiçao(GET,POST,PUT,DELETE, etc
 Exemplo
 Método: [GET] - URL: /order
 
-## 💻 Technologies used
+## 💻 Tecnologias usadas
 
  * JavaScript no ambiente Node;
 
