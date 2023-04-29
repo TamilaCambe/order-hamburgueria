@@ -1,11 +1,14 @@
 
 <h1 align = 'center'> Order-hamburgueria 🍔 </h1>
- <h3>Simula o cadastro de pedidos de uma hamburgueria. É possível criar, listar, alterar pedidos e o status de cada um (em preparação ou pronto) e também deletar. </h3>
+ <h3>Simulador de cadastro  </h3>
 
 ![Badge](https://img.shields.io/static/v1?label=DEV&message=Tamila&color=ff7f00&style=flat&logo=)
    
 <h2>Demonstração :eyes:<h2>
-
+ 
+## Explicação 📑
+ <p>Simula o cadastro de pedidos de uma hamburgueria. É possível criar, listar, alterar pedidos e o status de cada um (em preparação ou pronto) e também deletar.</p>
+ 
 <h3><br>Rotas:</h3>
 POST /order: A rota recebe o pedido do cliente, o nome do cliente e o valor do pedido, elas são passadas dentro do corpo(body) da requisição, e são colocadas dentro de um array.
 
