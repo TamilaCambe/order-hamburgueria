@@ -69,7 +69,7 @@ Método: [GET] - URL: /order
  ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+
 * Você instalou a versão mais recente de  NodeJs
 * Você tem uma máquina Windows 
 
@@ -109,16 +109,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#ProjetoHVEX)<br>
-
- 
- 
+[![Linkedin Badge](https://img.shields.io/badge/-TamilaCambé-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tamila-camb%C3%A9-460910233/) [![Gmail Badge](https://img.shields.io/badge/-tamilacambe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamilacambe@gmail.com)](mailto:tamilacambe@gmail.com)
